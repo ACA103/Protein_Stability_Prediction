@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+torch
+gradio==4.36.1
+matplotlib
+seaborn
+shap
+requests
+huggingface_hub

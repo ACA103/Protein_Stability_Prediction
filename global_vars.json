@@ -1,0 +1,148 @@
+{
+    "label_encoder_classes": [
+        "destabilizing",
+        "neutral",
+        "stabilizing"
+    ],
+    "num_classes": 3,
+    "best_hyperparams": {
+        "learning_rate": 0.0001,
+        "dropout": 0.3,
+        "lambda_reg": 0.5,
+        "lambda_cls": 0.5
+    },
+    "expected_value_reg": -1.0198863744735718,
+    "expected_value_cls": [
+        -0.5417895317077637,
+        0.3860914409160614,
+        0.6462976932525635
+    ],
+    "AA_PROPERTIES": {
+        "A": {
+            "hydrophobicity": 1.8,
+            "volume": 88.6,
+            "charge": 0,
+            "polarity": 0
+        },
+        "R": {
+            "hydrophobicity": -4.5,
+            "volume": 173.4,
+            "charge": 1,
+            "polarity": 1
+        },
+        "N": {
+            "hydrophobicity": -3.5,
+            "volume": 114.1,
+            "charge": 0,
+            "polarity": 1
+        },
+        "D": {
+            "hydrophobicity": -3.5,
+            "volume": 111.1,
+            "charge": -1,
+            "polarity": 1
+        },
+        "C": {
+            "hydrophobicity": 2.5,
+            "volume": 108.5,
+            "charge": 0,
+            "polarity": 0
+        },
+        "Q": {
+            "hydrophobicity": -3.5,
+            "volume": 143.8,
+            "charge": 0,
+            "polarity": 1
+        },
+        "E": {
+            "hydrophobicity": -3.5,
+            "volume": 138.4,
+            "charge": -1,
+            "polarity": 1
+        },
+        "G": {
+            "hydrophobicity": -0.4,
+            "volume": 60.1,
+            "charge": 0,
+            "polarity": 0
+        },
+        "H": {
+            "hydrophobicity": -3.2,
+            "volume": 153.2,
+            "charge": 0.1,
+            "polarity": 1
+        },
+        "I": {
+            "hydrophobicity": 4.5,
+            "volume": 166.7,
+            "charge": 0,
+            "polarity": 0
+        },
+        "L": {
+            "hydrophobicity": 3.8,
+            "volume": 166.7,
+            "charge": 0,
+            "polarity": 0
+        },
+        "K": {
+            "hydrophobicity": -3.9,
+            "volume": 168.6,
+            "charge": 1,
+            "polarity": 1
+        },
+        "M": {
+            "hydrophobicity": 1.9,
+            "volume": 162.9,
+            "charge": 0,
+            "polarity": 0
+        },
+        "F": {
+            "hydrophobicity": 2.8,
+            "volume": 203.4,
+            "charge": 0,
+            "polarity": 0
+        },
+        "P": {
+            "hydrophobicity": -1.6,
+            "volume": 112.7,
+            "charge": 0,
+            "polarity": 0
+        },
+        "S": {
+            "hydrophobicity": -0.8,
+            "volume": 89.0,
+            "charge": 0,
+            "polarity": 1
+        },
+        "T": {
+            "hydrophobicity": -0.7,
+            "volume": 116.1,
+            "charge": 0,
+            "polarity": 1
+        },
+        "W": {
+            "hydrophobicity": -0.9,
+            "volume": 227.8,
+            "charge": 0,
+            "polarity": 1
+        },
+        "Y": {
+            "hydrophobicity": -1.3,
+            "volume": 203.0,
+            "charge": 0,
+            "polarity": 1
+        },
+        "V": {
+            "hydrophobicity": 4.2,
+            "volume": 117.5,
+            "charge": 0,
+            "polarity": 0
+        },
+        "X": {
+            "hydrophobicity": 0,
+            "volume": 0,
+            "charge": 0,
+            "polarity": 0
+        }
+    }
+}
